@@ -1,4 +1,4 @@
-# OPENING--CLOSING
+## EX 10: OPENING--CLOSING
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 
